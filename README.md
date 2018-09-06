@@ -7,4 +7,4 @@
 
 build storybook to run locally
 
-```run build-storybook```
+```yarn run build-storybook```
